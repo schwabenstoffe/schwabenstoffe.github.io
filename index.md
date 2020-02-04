@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Schwabenstoffe Business"
+title: Schwabenstoffe Business
 ---
 
 # Schwabenstoffe Business
