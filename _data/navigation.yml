@@ -1,0 +1,9 @@
+- name: Home
+  link: /
+- name: Ankauf
+  link: /ankauf.html
+- name: Verkauf
+  link: /verkauf.html
+- name: Über uns
+  link: /about.html
+
