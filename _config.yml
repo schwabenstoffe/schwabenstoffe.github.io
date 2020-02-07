@@ -1,19 +1,28 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Schwabenstoffe UG (haftungsbeschränkt)
+author: Marius Hahn
+manager: Isolde Greuter
+email: info@schwabenstoffe.de
+
+# Schwabenstoffe UG (haftungsbeschränkt)
+
+street: Talstraße, 5
+city: 72474 Winterlingen
+country: Deutschland
+
+phone: 01627991600
+
+
+
+description: Bester Stoffhandel der Welt 
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# twitter_username: we dont have one
+github_username:  schwabenstoffe
+# rss: rss
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: schwabenstoffe
 # flickr_username: jekyll
-# instagram_username: jekyll
+instagram_username: schwaben.stoffe
 # linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
