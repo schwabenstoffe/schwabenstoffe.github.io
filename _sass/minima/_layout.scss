@@ -2,8 +2,9 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  background: linear-gradient(#e8e100,#ffffff);
+  border-top: 5px solid #e8e100;
+  border-bottom: 1px solid #f2ef9c;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -50,8 +51,6 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
 
@@ -86,6 +85,10 @@
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
+      background-color: #f2ef9c;
+      margin-top: 3rem;
+      margin-right: -15px;
+      padding-right: 15px;      
     }
 
     .page-link {
@@ -106,7 +109,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid #f2ef9c;
   padding: $spacing-unit 0;
 }
 

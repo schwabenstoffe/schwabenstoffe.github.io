@@ -37,7 +37,9 @@
 
           <li class="p-name">
             {%- if site.phone -%}
+            <a href="tel:{{ site.phone | escape }}">
               {{ site.phone | escape }}
+            </a>
             {%- endif -%}
           </li>
 
