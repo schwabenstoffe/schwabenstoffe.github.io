@@ -13,4 +13,4 @@ Sie sind selbst **Stoffhändler**? Direkt darunter in unserem **Lager** stehen d
 
 ## Wo sind wir?
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.448456105509!2d9.119549151234855!3d48.17871035617224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a176b7c5abdc3%3A0x31ed664ab853e9a0!2sHelstra%C3%9Fe%2037%2C%2072474%20Winterlingen%2C%20Deutschland!5e0!3m2!1sde!2sch!4v1581105183508!5m2!1sde!2sch" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10641.794562602561!2d9.1217432!3d48.1787068!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcfafa503580cac19!2sSchwabenstoffe%20UG%20(haftungsbeschr%C3%A4nkt)!5e0!3m2!1sde!2sch!4v1581364362046!5m2!1sde!2sch" frameborder="0" style="border:0;" allowfullscreen></iframe>
