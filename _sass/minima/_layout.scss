@@ -111,7 +111,9 @@
 .site-footer {
   border-top: 1px solid #f2ef9c;
   padding: $spacing-unit 0;
-  background-image: url('../assets/images/background.footer.svg');
+  background-image: url('../assets/images/karomuster.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .footer-heading {
