@@ -1,6 +1,6 @@
 ---
 layout: post
-title_image: "/assets/images/Hemdenstoffe/OL-200820_prysm.jpg"
+title_image: "/assets/images/Hemdenstoffe/min/OL-200820_prysm.jpg"
 ---
 
 **Artikelnummer:** OL-200820-33

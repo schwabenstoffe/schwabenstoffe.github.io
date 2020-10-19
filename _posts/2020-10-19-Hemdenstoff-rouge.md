@@ -1,6 +1,6 @@
 ---
 layout: post
-title_image: "/assets/images/Hemdenstoffe/OL-200820_rouge.jpg"
+title_image: "/assets/images/Hemdenstoffe/min/OL-200820_rouge.jpg"
 ---
 
 **Artikelnummer:** OL-200820-30

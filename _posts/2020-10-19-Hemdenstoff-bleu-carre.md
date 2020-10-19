@@ -1,6 +1,6 @@
 ---
 layout: post
-title_image: "/assets/images/Hemdenstoffe/OL-200820_bleu-carre.jpg"
+title_image: "/assets/images/Hemdenstoffe/min/OL-200820_bleu-carre.jpg"
 ---
 
 **Artikelnummer:** OL-200820-560

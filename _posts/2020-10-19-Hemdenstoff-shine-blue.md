@@ -1,6 +1,6 @@
 ---
 layout: post
-title_image: "/assets/images/Hemdenstoffe/OL-200820_shineblu.jpg"
+title_image: "/assets/images/Hemdenstoffe/min/OL-200820_shineblu.jpg"
 ---
 
 **Artikelnummer:** OL-200820-510
