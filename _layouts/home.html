@@ -18,6 +18,9 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
+            {%- if post.title_image -%}
+            <img src="{{ post.title_image }}" alt="title image" style="width: 10%; height: 10%;">
+            {%- endif -%}
             {{ post.title | escape }}
           </a>
         </h3>
