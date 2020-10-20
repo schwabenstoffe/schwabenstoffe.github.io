@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% assign hemdenstoffe = site.posts | where: "tag", "hemdenstoff" %}
+
+  {%- if hemdenstoffe.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Unser aktuelles Angebot" }}</h2>
+    <ul class="post-list">
+      {%- for hemdenstoff in hemdenstoffe -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ hemdenstoff.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ hemdenstoff.url | relative_url }}">
+            {%- if hemdenstoff.title_image -%}
+            <img src="{{ hemdenstoff.title_image }}" alt="title image" style="width: 10%; height: 10%; padding-right: 10px;">
+            {%- endif -%}
+            {{ hemdenstoff.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ hemdenstoff.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+<!--     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+  {%- endif -%}
+
+</div>

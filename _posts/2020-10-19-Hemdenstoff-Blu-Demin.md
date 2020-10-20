@@ -1,6 +1,7 @@
 ---
 layout: post
 title_image: "/assets/images/Hemdenstoffe/min/OL-200820_bludenim.jpg"
+tag: hemdenstoff
 ---
 
 **Artikelnummer:** OL-200820-540

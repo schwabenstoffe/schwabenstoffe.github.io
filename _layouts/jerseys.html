@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% assign jerseys = site.posts | where: "tag", "jerseys" %}
+
+  {%- if jerseys.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Unser aktuelles Angebot" }}</h2>
+    <ul class="post-list">
+      {%- for jersey in jerseys -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ jersey.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ jersey.url | relative_url }}">
+            {%- if jersey.title_image -%}
+            <img src="{{ jersey.title_image }}" alt="title image" style="width: 10%; height: 10%; padding-right: 10px;">
+            {%- endif -%}
+            {{ jersey.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ jersey.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+<!--     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+  {%- endif -%}
+
+</div>

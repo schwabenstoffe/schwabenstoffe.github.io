@@ -7,3 +7,22 @@
 #
 layout: home
 ---
+
+## Privatkunden
+
+[Hier gehts zu unserem Webshop für Endverbraucher](https://schwabenstoffe.de)
+
+## Geschäftskunden
+
+Sie sind genau richtig hier :-). 
+
+### Unser Angebot
+
+
+[Hemdenstoffe](/hemdenstoffe/)
+
+[Jersy](/jerseys/)
+
+### Ankauf
+
+Sie haben noch Stoffe auf Lager, für den Sie keine Verwendung mehr haben. Dann schreiben sie uns eine E-Mail. Wir kaufen ihn gern zu fairen Preisen ab! 
