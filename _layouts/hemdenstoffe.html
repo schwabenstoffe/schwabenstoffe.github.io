@@ -21,7 +21,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ hemdenstoff.url | relative_url }}">
             {%- if hemdenstoff.title_image -%}
-            <img src="{{ hemdenstoff.title_image }}" alt="title image" style="width: 10%; height: 10%; padding-right: 10px;">
+            <img src="{{ hemdenstoff.title_image }}" alt="title image" class="image_preview">
             {%- endif -%}
             {{ hemdenstoff.title | escape }}
           </a>

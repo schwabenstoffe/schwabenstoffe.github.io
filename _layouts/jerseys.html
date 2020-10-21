@@ -21,7 +21,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ jersey.url | relative_url }}">
             {%- if jersey.title_image -%}
-            <img src="{{ jersey.title_image }}" alt="title image" style="width: 10%; height: 10%; padding-right: 10px;">
+            <img src="{{ jersey.title_image }}" alt="title image" class="image_preview">
             {%- endif -%}
             {{ jersey.title | escape }}
           </a>
