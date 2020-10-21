@@ -4,7 +4,7 @@ title_image: "/assets/images/Hemdenstoffe/min/OL-200820_violet.jpg"
 tag: hemdenstoff
 ---
 
-**Artikelnummer:** OL-200820-40
+**Artikelnummer:** HS-200820-40
 
 **Material**: Hemden- und Blusenstoff 100% Baumwolle
 

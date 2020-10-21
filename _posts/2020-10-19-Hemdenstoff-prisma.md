@@ -4,7 +4,7 @@ title_image: "/assets/images/Hemdenstoffe/min/OL-200820_prysm.jpg"
 tag: hemdenstoff
 ---
 
-**Artikelnummer:** OL-200820-33
+**Artikelnummer:** HS-200820-33
 
 **Material**: Hemden- und Blusenstoff 100% Baumwolle
 

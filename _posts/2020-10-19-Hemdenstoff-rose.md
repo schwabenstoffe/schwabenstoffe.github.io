@@ -4,7 +4,7 @@ title_image: "/assets/images/Hemdenstoffe/min/OL-200820_rose.jpg"
 tag: hemdenstoff
 ---
 
-**Artikelnummer:** OL-200820-32
+**Artikelnummer:** HS-200820-32
 
 **Material**: Hemden- und Blusenstoff 100% Baumwolle
 

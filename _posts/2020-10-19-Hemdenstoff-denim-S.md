@@ -4,7 +4,7 @@ title_image: "/assets/images/Hemdenstoffe/min/OL-200820_denim-s.jpg"
 tag: hemdenstoff
 ---
 
-**Artikelnummer:** OL-200820-500
+**Artikelnummer:** HS-200820-500
 
 **Material**: Hemden- und Blusenstoff 100% Baumwolle
 

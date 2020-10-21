@@ -4,7 +4,7 @@ title_image: "/assets/images/Hemdenstoffe/min/OL-200820_bleu-carre.jpg"
 tag: hemdenstoff
 ---
 
-**Artikelnummer:** OL-200820-560
+**Artikelnummer:** HS-200820-560
 
 **Material**: Hemden- und Blusenstoff 100% Baumwolle
 

@@ -4,7 +4,7 @@ title_image: "/assets/images/Hemdenstoffe/min/OL-200820_bbbleu.jpg"
 tag: hemdenstoff
 ---
 
-**Artikelnummer:** OL-200820-570
+**Artikelnummer:** HB-200820-570
 
 **Material**: Hemden- und Blusenstoff 100% Baumwolle
 
