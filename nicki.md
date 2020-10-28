@@ -1,5 +1,5 @@
 ---
 layout: nicki
 title: Nicki
-permalink: /Nicki/
+permalink: /nicki/
 ---

@@ -23,6 +23,8 @@ Sie sind genau richtig hier :-).
 
 [Jersy](/jerseys/)
 
+[Nicki](/nicki/)
+
 ### Ankauf
 
 Sie haben noch Stoffe auf Lager, für den Sie keine Verwendung mehr haben. Dann schreiben sie uns eine E-Mail. Wir kaufen ihn gern zu fairen Preisen ab! 
