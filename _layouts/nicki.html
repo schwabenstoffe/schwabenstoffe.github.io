@@ -9,25 +9,25 @@ layout: default
 
   {{ content }}
 
-  {% assign hemdenstoffe = site.posts | where: "tag", "hemdenstoff" %}
+  {% assign jerseys = site.posts | where: "tag", "nicki" %}
 
-  {%- if hemdenstoffe.size > 0 -%}
+  {%- if jerseys.size > 0 -%}
 <!--     <h2 class="post-list-heading">{{ page.list_title | default: "Unser aktuelles Angebot" }}</h2>
  -->    <ul class="post-list">
-      {%- for hemdenstoff in hemdenstoffe -%}
+      {%- for jersey in jerseys -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ hemdenstoff.date | date: date_format }}</span>
+        <span class="post-meta">{{ jersey.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ hemdenstoff.url | relative_url }}">
-            {%- if hemdenstoff.title_image -%}
-            <img src="{{ hemdenstoff.title_image }}" alt="title image" class="image_preview">
+          <a class="post-link" href="{{ jersey.url | relative_url }}">
+            {%- if jersey.title_image -%}
+            <img src="{{ jersey.title_image }}" alt="title image" class="image_preview">
             {%- endif -%}
-            {{ hemdenstoff.title | escape }}
+            {{ jersey.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ hemdenstoff.excerpt }}
+          {{ jersey.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}

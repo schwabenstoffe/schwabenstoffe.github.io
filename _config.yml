@@ -48,6 +48,7 @@ minima:
 header_pages:
  - jerseys.md
  - hemdenstoffe.md
+ - nicki.md
  - about.md
 
 # Build settings
